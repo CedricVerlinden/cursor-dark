@@ -19,12 +19,8 @@
 				"path": "./themes/cursor-dark.json"
 			}
 		],
-		"iconThemes": [
-			{
-				"id": "cursor-dark",
-				"label": "Cursor Dark",
-				"path": "./file-icon-theme.json"
-			}
-		]
+		"configurationDefaults": {
+			"workbench.iconTheme": "vs-seti"
+		}
 	}
 }
