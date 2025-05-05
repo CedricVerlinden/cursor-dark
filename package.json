@@ -1,0 +1,30 @@
+{
+	"name": "cursor-dark",
+	"displayName": "Cursor Dark",
+	"description": "A copy of the Cursor AI editor theme from cursor.sh, repackaged for use in Visual Studio Code without needing the Cursor editor.",
+	"version": "0.1.0",
+	"publisher": "cedricverlinden",
+	"engines": {
+		"vscode": "^1.99.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "cursor-dark",
+				"label": "Cursor Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cursor-dark.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "cursor-dark",
+				"label": "Cursor Dark",
+				"path": "./file-icon-theme.json"
+			}
+		]
+	}
+}
