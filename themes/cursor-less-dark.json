@@ -231,7 +231,7 @@
 		"minimap.selectionHighlight": "#363636",
 		"minimap.errorHighlight": "#f14c4c",
 		"minimap.warningHighlight": "#ea7620",
-		"minimap.background": "#181818"
+		"minimap.background": "#212121"
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
