@@ -22,6 +22,12 @@
 				"label": "Cursor Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/cursor-dark.json"
+			},
+			{
+				"id": "cursor-less-dark",
+				"label": "Cursor Less Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cursor-less-dark.json"
 			}
 		],
 		"configurationDefaults": {
