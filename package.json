@@ -2,7 +2,7 @@
 	"name": "cursor-dark",
 	"displayName": "Cursor Dark",
 	"description": "A copy of the Cursor AI editor theme from cursor.sh, repackaged for use in Visual Studio Code without needing the Cursor editor.",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"publisher": "cedricverlinden",
 	"icon": "./images/icon.png",
 	"repository": {
