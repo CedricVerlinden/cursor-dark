@@ -10,7 +10,7 @@
 		"url": "https://github.com/CedricVerlinden/cursor-dark"
 	},
 	"engines": {
-		"vscode": "^1.99.0"
+		"vscode": "^1.78.2"
 	},
 	"categories": [
 		"Themes"
